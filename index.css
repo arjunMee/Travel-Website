@@ -138,4 +138,8 @@ h5 {
   .main-nav {
     display: none;
   }
+
+  .container {
+    padding: 0 1em;
+  }
 }
